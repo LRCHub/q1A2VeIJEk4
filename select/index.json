@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "紛い燈",
+  "base_artist": "Laica",
+  "createdAt": "2026-01-03T15:08:35.257469Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "紛い燈",
+      "artist": "Laica",
+      "has_synced": false,
+      "path": "select/pl_01_紛い燈_Laica.txt"
+    }
+  ]
+}
